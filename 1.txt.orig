@@ -1,3 +1,6 @@
 hey this is master
+<<<<<<< HEAD
 this is my second file 
+=======
 thhis is file anup
+>>>>>>> refs/remotes/origin/main
